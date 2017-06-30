@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dronekit-android-2.3.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3f1593a3349737e5f34c963d22e74d76900137b8/output/jars/libs/Mavlink.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3f1593a3349737e5f34c963d22e74d76900137b8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3f1593a3349737e5f34c963d22e74d76900137b8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.o3dr.android/dronekit-android/2.3.11/d293f664d671bf3023c2dc22c60e5f0beb459990/dronekit-android-2.3.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
