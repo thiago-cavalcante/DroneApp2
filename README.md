@@ -1,4 +1,4 @@
-DroneKit-Android-Starter
+DroneApp
 ========================
 
-Hello World app for [DroneKit-Android](http://android.dronekit.io/).
+My first Android App for [DroneKit-Android](http://android.dronekit.io/).
