@@ -245,12 +245,8 @@ public class MainActivity extends ActionBarActivity implements DroneListener, To
     }
 
     private void checkSoloState() {
-//        final SoloState soloState = drone.getAttribute(SoloAttributes.SOLO_STATE);
-//        if (soloState == null) {
-//            alertUser("Unable to retrieve the solo state.");
-//        } else {
-//            alertUser("Solo state is up to date.");
-//        }
+//    TODO
+        alertUser("TO BE IMPLEMENTED!");
     }
 
     @Override
@@ -289,22 +285,6 @@ public class MainActivity extends ActionBarActivity implements DroneListener, To
     public void onFlightModeSelected(View view) {
         VehicleMode vehicleMode = (VehicleMode) this.modeSelector.getSelectedItem();
 
-//        VehicleApi.getApi(this.drone).setVehicleMode(vehicleMode, new AbstractCommandListener() {
-//            @Override
-//            public void onSuccess() {
-//                alertUser("Vehicle mode change successful.");
-//            }
-//
-//            @Override
-//            public void onError(int executionError) {
-//                alertUser("Vehicle mode change failed: " + executionError);
-//            }
-//
-//            @Override
-//            public void onTimeout() {
-//                alertUser("Vehicle mode change timed out.");
-//            }
-//        });
         this.drone.changeVehicleMode(vehicleMode);
     }
 
@@ -325,56 +305,6 @@ public class MainActivity extends ActionBarActivity implements DroneListener, To
             // Connected but not Armed
             this.drone.arm(true);
         }
-
-//        if (vehicleState.isFlying()) {
-//            // Land
-//            VehicleApi.getApi(this.drone).setVehicleMode(VehicleMode.COPTER_LAND, new SimpleCommandListener() {
-//                @Override
-//                public void onError(int executionError) {
-//                    alertUser("Unable to land the vehicle.");
-//                }
-//
-//                @Override
-//                public void onTimeout() {
-//                    alertUser("Unable to land the vehicle.");
-//                }
-//            });
-//        } else if (vehicleState.isArmed()) {
-//            // Take off
-//            ControlApi.getApi(this.drone).takeoff(10, new AbstractCommandListener() {
-//
-//                @Override
-//                public void onSuccess() {
-//                    alertUser("Taking off...");
-//                }
-//
-//                @Override
-//                public void onError(int i) {
-//                    alertUser("Unable to take off.");
-//                }
-//
-//                @Override
-//                public void onTimeout() {
-//                    alertUser("Unable to take off.");
-//                }
-//            });
-//        } else if (!vehicleState.isConnected()) {
-//            // Connect
-//            alertUser("Connect to a drone first");
-//        } else {
-//            // Connected but not Armed
-//            VehicleApi.getApi(this.drone).arm(true, false, new SimpleCommandListener() {
-//                @Override
-//                public void onError(int executionError) {
-//                    alertUser("Unable to arm vehicle.");
-//                }
-//
-//                @Override
-//                public void onTimeout() {
-//                    alertUser("Arming operation timed out.");
-//                }
-//            });
-//        }
     }
 
     // UI updating
@@ -477,77 +407,23 @@ public class MainActivity extends ActionBarActivity implements DroneListener, To
     }
 
     private void takePhoto() {
-//        SoloCameraApi.getApi(drone).takePhoto(new AbstractCommandListener() {
-//            @Override
-//            public void onSuccess() {
-//                alertUser("Photo taken.");
-//            }
-//
-//            @Override
-//            public void onError(int executionError) {
-//                alertUser("Error while trying to take the photo: " + executionError);
-//            }
-//
-//            @Override
-//            public void onTimeout() {
-//                alertUser("Timeout while trying to take the photo.");
-//            }
-//        });
+//    TODO
+        alertUser("TO BE IMPLEMENTED!");
     }
 
     private void toggleVideoRecording() {
-//        SoloCameraApi.getApi(drone).toggleVideoRecording(new AbstractCommandListener() {
-//            @Override
-//            public void onSuccess() {
-//                alertUser("Video recording toggled.");
-//            }
-//
-//            @Override
-//            public void onError(int executionError) {
-//                alertUser("Error while trying to toggle video recording: " + executionError);
-//            }
-//
-//            @Override
-//            public void onTimeout() {
-//                alertUser("Timeout while trying to toggle video recording.");
-//            }
-//        });
+//    TODO
+        alertUser("TO BE IMPLEMENTED!");
     }
 
     private void startVideoStream(Surface videoSurface) {
-//        SoloCameraApi.getApi(drone).startVideoStream(videoSurface, "", true, new AbstractCommandListener() {
-//            @Override
-//            public void onSuccess() {
-//                if (stopVideoStream != null)
-//                    stopVideoStream.setEnabled(true);
-//
-//                if (startVideoStream != null)
-//                    startVideoStream.setEnabled(false);
-//            }
-//
-//            @Override
-//            public void onError(int executionError) {
-//                alertUser("Error while starting the video stream: " + executionError);
-//            }
-//
-//            @Override
-//            public void onTimeout() {
-//                alertUser("Timed out while attempting to start the video stream.");
-//            }
-//        });
+//    TODO
+        alertUser("TO BE IMPLEMENTED!");
     }
 
     private void stopVideoStream() {
-//        SoloCameraApi.getApi(drone).stopVideoStream(new SimpleCommandListener() {
-//            @Override
-//            public void onSuccess() {
-//                if (stopVideoStream != null)
-//                    stopVideoStream.setEnabled(false);
-//
-//                if (startVideoStream != null)
-//                    startVideoStream.setEnabled(true);
-//            }
-//        });
+//    TODO
+        alertUser("TO BE IMPLEMENTED!");
     }
 
 }
