@@ -40,12 +40,12 @@
                     android:id="@+id/selectConnectionType"
                     android:layout_width="120dp"
                     android:layout_height="44dp"
-                    android:layout_alignParentLeft="true"
-                    android:layout_alignParentStart="true"
-                    android:layout_below="@+id/connectionTypeLabel"
-                    android:layout_toLeftOf="@+id/btnConnect"
                     android:entries="@array/drone_connection_types"
-                    android:spinnerMode="dropdown" />
+                    android:spinnerMode="dropdown"
+                    android:layout_alignBaseline="@+id/btnConnect"
+                    android:layout_alignBottom="@+id/btnConnect"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
 
                 <TextView
                     android:id="@+id/connectionTypeLabel"
@@ -226,9 +226,31 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="521dp"
                 android:orientation="vertical"
                 android:gravity="center_horizontal">
+
+                <EditText
+                    android:id="@+id/editText3"
+                    android:layout_width="128dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="# of X product" />
+
+                <EditText
+                    android:id="@+id/editText4"
+                    android:layout_width="128dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="# of Y product" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Generate Mission" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -270,7 +292,9 @@
                         android:minHeight="48dp"
                         android:text="Stop streaming"/>
 
+
                 </LinearLayout>
+
                 <TextureView
                     android:id="@+id/video_content"
                     android:layout_width="match_parent"

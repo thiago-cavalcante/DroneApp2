@@ -222,7 +222,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_settings">Settings</string>
-    <string name="app_name">Hello Drone</string>
+    <string name="app_name">DroneApp</string>
     <string name="error_accelerometers_not_healthy">Accelerometers not healthy</string>
     <string name="error_acro_bal_roll_pitch">Acro bal roll/pitch</string>
     <string name="error_altitude_disparity">Altitude disparity</string>
@@ -263,7 +263,7 @@
     <string name="error_throttle_too_high">Throttle too high</string>
     <string name="error_vehicle_leaning">Vehicle is leaning</string>
     <string name="error_waiting_for_navigation_alignment">Waiting for navigation alignment</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Drone!</string>
     <string name="install_service_dialog_install_button">Install</string>
     <string name="install_service_dialog_message">3DR Services must be installed on the device to use this app.</string>
     <string name="install_service_dialog_title">Install 3DR Services!</string>

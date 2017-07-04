@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

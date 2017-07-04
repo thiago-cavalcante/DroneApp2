@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "outputFile": "E:\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "file": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,50 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "file": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 71,
+                        "endOffset": 537
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 61,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

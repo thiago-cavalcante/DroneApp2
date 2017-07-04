@@ -1,42 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\anim\\abc_fade_out.xml"
     }
 ]

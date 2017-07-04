@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "E:\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 63,
+                        "endOffset": 296
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

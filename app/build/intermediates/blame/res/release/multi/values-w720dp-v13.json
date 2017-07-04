@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 76,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    }
+]

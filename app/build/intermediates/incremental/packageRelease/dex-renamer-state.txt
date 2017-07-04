@@ -1,0 +1,4 @@
+#Fri Jun 30 11:17:30 AMT 2017
+base.0=/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

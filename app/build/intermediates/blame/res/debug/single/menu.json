@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "E:\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\DroneApp2\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

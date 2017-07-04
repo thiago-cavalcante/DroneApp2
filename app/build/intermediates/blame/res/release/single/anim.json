@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/svlab/AndroidStudioProjects/DroneApp2/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/svlab/.android/build-cache/f3dfa02744fa5b026e6643bb4dca835996351aad/output/res/anim/abc_fade_in.xml"
+    }
+]

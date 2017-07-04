@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\thiag\\Documents\\GitHub\\DroneApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "E:\\home\\svlab\\AndroidStudioProjects\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\thiag\\.android\\build-cache\\6158c8aebf2ce8f7d9dc8f87b20d19dada5e259b\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "E:\\home\\svlab\\.android\\build-cache\\f3dfa02744fa5b026e6643bb4dca835996351aad\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\DroneApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Thiago\\.android\\build-cache\\d028481054ac27d53085d65740221e2243cb5530\\output\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

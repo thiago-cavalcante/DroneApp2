@@ -1,0 +1,7 @@
+#Tue Jul 04 16:37:53 BOT 2017
+base.0=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6ed37c3380357de4d95920560dfe2010da7ab939
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce29e56f69dfa5fd8bb4b3f19df8a61c4c7f3e7d\\classes.dex
+base.1=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce29e56f69dfa5fd8bb4b3f19df8a61c4c7f3e7d
+file.0=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6ed37c3380357de4d95920560dfe2010da7ab939\\classes.dex

@@ -1,0 +1,22 @@
+#Tue Jul 04 16:37:52 BOT 2017
+renamed.6=classes7.dex
+renamed.5=classes3.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.6=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_2bb28cdaaa00b60b552962b650b7a49378e45a35
+base.5=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bd9529e648100b4d2935c694c79189a98114ecdb
+base.4=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_4da1b5836e66a7e11beabe7b84a1f79f60e08211
+base.3=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dd38a48f09901efdb9d6f3f6a4188682133ae7b6
+base.2=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_27c651886bd655f66e5a01e50a75cbe60aab15a4
+base.1=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ba3e655d2c0130212d4ed0fb92a75befdbb4c229
+base.0=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\Mavlink_8439d91169ef877e297739d3076c2a6dee4eee0d
+file.6=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_2bb28cdaaa00b60b552962b650b7a49378e45a35\\classes.dex
+file.5=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bd9529e648100b4d2935c694c79189a98114ecdb\\classes.dex
+file.4=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_4da1b5836e66a7e11beabe7b84a1f79f60e08211\\classes.dex
+file.3=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dd38a48f09901efdb9d6f3f6a4188682133ae7b6\\classes.dex
+file.2=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_27c651886bd655f66e5a01e50a75cbe60aab15a4\\classes.dex
+file.1=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ba3e655d2c0130212d4ed0fb92a75befdbb4c229\\classes.dex
+file.0=E\:\\DroneApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\Mavlink_8439d91169ef877e297739d3076c2a6dee4eee0d\\classes.dex
